@@ -1,0 +1,10 @@
+.card {
+    height:300px;
+    margin-bottom:10px;
+}
+.cardbody {
+    overflow-y:hidden
+}
+.col-3 {
+    height:300px
+}
